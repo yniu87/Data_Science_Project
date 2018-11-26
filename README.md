@@ -1,6 +1,6 @@
 Github repo for Data Science Project.
 
-Nick Rocco
-Shane Johnson
-Catherine Markley
-Yuanhao Niu
+Shane Johnson;
+Catherine Markley;
+Yuanhao Niu;
+Nick Rocco;
