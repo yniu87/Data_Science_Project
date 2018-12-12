@@ -1,4 +1,4 @@
-Equity Premium Prediction
+# Equity Premium Prediction
 
 CSE 60647 Data Science Project
 
