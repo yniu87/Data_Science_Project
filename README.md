@@ -1,4 +1,4 @@
-# Equity Premium Prediction
+# A Machine Learning Approach to Equity Premium Prediction
 
 CSE 60647 Data Science Project
 
