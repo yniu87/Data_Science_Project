@@ -1,6 +1,6 @@
 # A Machine Learning Approach to Equity Premium Prediction
 
-CSE 60647 Data Science Project
+Notre Dame CSE 60647 Data Science Project (Fall 2018)
 
 Shane Johnson, Catherine Markley, Yuanhao Niu, Nick Rocco 
 
